@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Multi Modal Analysis<br>🌱 I’m currently learning AWS<br>💬 Curious about Tech<br>⚡ Fun fact : Will add in Future.
+🔭 I’m currently working on Multi Modal Analysis<br>🌱 I’m currently learning AWS<br>💬 Intrested in GEN AI, LLM's <br>⚡ Fun fact : Will add in Future.
 
 
 ## 🌐 Socials:
