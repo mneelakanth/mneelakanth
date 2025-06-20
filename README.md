@@ -22,8 +22,6 @@ Hi, I'm Neelakanth, a passionate Python Developer and Machine Learning Enthusias
 
 
 ## 🌐 Socials:
-LinkedIn : 
-<br>Gmail : 
 **Email:** neelakanthmarigoudar@gmail.com  <br>
 **LinkedIn:** [Neelakanth Marigoudar](https://www.linkedin.com/in/neelakanth-marigoudar-960904162)
 
