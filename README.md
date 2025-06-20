@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-LinkedIn : https://linkedin.com/in/https://www.linkedin.com/in/neelakanth-marigoudar-960904162
+LinkedIn : https://www.linkedin.com/in/neelakanth-marigoudar-960904162
 <br>Gmail : neelakanthmarigoudar@gmail.com
 
 # 💻 Tech Stack:
